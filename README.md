@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... Algebra(Solve for x)
 - 💞️ I’m looking to collaborate on ... Python
 - 📫 How to reach me ... Email:
-- colejaan@gmail.com
 
 <!---
 Jaan-Cole/Jaan-Cole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
